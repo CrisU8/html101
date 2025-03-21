@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Welp</title>
+    <style>
+        body {
+            background-color: paleturquoise;
+        }
+
+        .submit-button {
+            background-color: paleturquoise;
+            font-size: 25px;
+        }
+    </style>
+</head>
+<body>
+    <form>
+        <h2 class="heading-2">Comparte tu review de tu libro</h2>
+        <label for="firstName">Nombre revisor: </label><input type="text" id="firstName" name="firstName" required>
+        <br><br>
+        <label for="book-title">Nombre del libro: </label><input type="text" id="book-title" name="book-title" required>
+        <br>
+        <h3 class="heading" id="h-pregunta">Volverias a revisarlo?</h3>
+        <label>Yes</label><input type="radio" id="review-again-1" name="yes">
+        <label>No</label><input type="radio" id="review-again-2" name="no">
+        <label>Quizas</label><input type="radio" id="review-again-3" name="quizas">
+        <br><br>
+        <h3 class="heading" id="h-puntuacion">Puntuación</h3>
+        <label>1</label><input type="radio" name="option">
+        <label>2</label><input type="radio" name="option">
+        <label>3</label><input type="radio" name="option">
+        <label>4</label><input type="radio" name="option">
+        <label>5</label><input type="radio" name="option" checked>
+        <br><br>
+        <label>Deja tu comentario</label><textarea rows="4" cols="50" maxlength="250"></textarea>
+        <input class="submit-button" type="submit" value="Enviar review">
+    </form>
+</body>
+</html>
