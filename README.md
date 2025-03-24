@@ -1,31 +1,74 @@
 
-<img style="text-align: center" src="repo-assets/img.png">
+# 🌐 HTML & CSS Foundations — The Origins Trilogy
 
-This repository contains the exercises and projects completed during the [Codedex](https://www.codedex.io/@CrisU8) course. Throughout the course, I learned the fundamentals of HTML and basic CSS, including semantic structure, form elements, and styling techniques. The repository showcases my progress and understanding of how to build and style web pages, and includes a final project that brings together all the concepts covered.
+<p align="center">
+  <img src="repo-assets/img.png" alt="The Origins Trilogy Banner" />
+</p>
+
+This repository contains the exercises and projects completed during the [Codedex](https://www.codedex.io/@CrisU8) course — part of **The Origins Trilogy**, a series designed to teach the fundamentals of web development from the ground up.
+
+Throughout this course, I learned the **core principles of HTML and basic CSS**, including semantic structure, form creation, and styling techniques.  
+This repository showcases my progress and understanding of how to build and style functional, responsive web pages. It also features a final project that brings together all the key concepts covered.
 
 ---
 
-HTML (HyperText Markup Language) is the standard language used to create and structure content on the web. It allows developers to define the elements of a web page such as headings, paragraphs, images, links, and more.
-This course is divided into four main chapters:
+## 🌍 What is HTML?
 
+**HTML (HyperText Markup Language)** is the standard language used to structure and display content on the web.  
+It allows developers to define the elements of a web page such as:
+- Headings
+- Paragraphs
+- Images
+- Links
+- Forms
+- Layout containers (like sections, articles, headers)
 
+---
 
-## [Structure](./structure)
-In this chapter, we explored the basic building blocks of HTML such as headings, paragraphs, links, lists, and basic forms. We also had a brief introduction to styling with CSS.
+## 📘 Course Chapters
 
+### 🧱 [Structure](./structure)
+In this chapter, we explored the basic building blocks of HTML:
+- Headings
+- Paragraphs
+- Links
+- Lists
+- Basic Forms  
+  We also had a brief introduction to styling these elements using CSS.
 
-## [Forms](./forms)
-This chapter focused on form-related elements and the different types of user input fields, such as text boxes, radio buttons, checkboxes, and dropdowns. We also learned how to apply basic validation to these fields to ensure correct data input.
-    
-## [Semantic HTML](./semantic-html)
-In this chapter, we covered HTML elements that give structure and meaning to a web page. We explored elements such as `<header>`, `<footer>`, `<main>`, `<section>`, `<article>`, `<div>`, and `<span>`.
+---
 
-## 🧑‍💻 [Final Project ](./final_project) 
-For the final project, I built a complete web page using all the concepts learned throughout the course. The project includes a responsive layout, semantic structure, styled components, and interactive forms.
+### ✍️ [Forms](./forms)
+This chapter focused on form-related elements and user input fields such as:
+- Text boxes
+- Radio buttons
+- Checkboxes
+- Dropdowns  
+  We also implemented basic **form validation** to ensure users input correct and complete information.
 
-### 🔗 Live website: [View Project](https://www.codedex.io/Helq3Aw3B4jj11HDtFnV/live)
+---
 
-📸 Project Preview:
-![](repo-assets/html101-overview.gif)
+### 🧠 [Semantic HTML](./semantic-html)
+In this section, we explored how to give **meaning and structure** to web pages using semantic tags like:
+- `<header>`, `<footer>`, `<main>`, `<section>`, `<article>`
+- `<div>` and `<span>` for grouping content  
+  These tags improve accessibility, SEO, and code organization.
 
-<img style="text-align: center" src="repo-assets/img.png">
+---
+
+### 🚀 [Final Project](./final_project)
+To wrap up the course, I built a complete multi-section web page using:
+- Responsive layout with basic CSS
+- Semantic HTML structure
+- Interactive and styled forms
+
+#### 🔗 Live Website: [View Project](https://www.codedex.io/Helq3Aw3B4jj11HDtFnV/live)
+
+📸 **Project Preview**  
+![Website Preview](repo-assets/html101-overview.gif)
+
+---
+
+<p align="center">
+  <img src="repo-assets/img.png" alt="The Origins Trilogy Footer" />
+</p>
